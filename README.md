@@ -1,7 +1,7 @@
 In this project, let's build a **Hamburger Menu** app by applying the concepts we have learned till now.
 
-### Refer to the below link:
-tharunhammenu.ccbp.tech
+### tharunhammenu.ccbp.tech:
+
 
 <br/>
 <div style="text-align: center;">
